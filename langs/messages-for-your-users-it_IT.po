@@ -1,0 +1,129 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Messages for your Users\n"
+"POT-Creation-Date: 2015-06-11 11:33+0100\n"
+"PO-Revision-Date: 2015-06-11 11:37+0100\n"
+"Last-Translator: Luca Maroni <lcmaroni77@gmail.com>\n"
+"Language-Team: Luca Maroni <lcmaroni77@gmail.com>\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\wp-plugin-dev\\wordpress\\wp-"
+"content\\plugins\\messages-for-your-users\n"
+
+#: C:\xampp\htdocs\wp-plugin-dev\wordpress\wp-content\plugins\messages-for-your-users/admin/class-messages-for-your-users-manager-admin.php:25
+msgid "Messages for your Users"
+msgstr "Messaggi per i tuoi utenti"
+
+#: C:\xampp\htdocs\wp-plugin-dev\wordpress\wp-content\plugins\messages-for-your-users/admin/class-messages-for-your-users-manager-admin.php:26
+msgid "Message"
+msgstr "Messaggio"
+
+#: C:\xampp\htdocs\wp-plugin-dev\wordpress\wp-content\plugins\messages-for-your-users/admin/class-messages-for-your-users-manager-admin.php:27
+#: C:\xampp\htdocs\wp-plugin-dev\wordpress\wp-content\plugins\messages-for-your-users/admin/class-messages-for-your-users-manager-admin.php:28
+msgid "Messages"
+msgstr "Messaggi"
+
+#: C:\xampp\htdocs\wp-plugin-dev\wordpress\wp-content\plugins\messages-for-your-users/admin/class-messages-for-your-users-manager-admin.php:29
+#: C:\xampp\htdocs\wp-plugin-dev\wordpress\wp-content\plugins\messages-for-your-users/admin/class-messages-for-your-users-manager-admin.php:30
+msgid "Add New Message"
+msgstr "Aggiungi nuovo Messaggio"
+
+#: C:\xampp\htdocs\wp-plugin-dev\wordpress\wp-content\plugins\messages-for-your-users/admin/class-messages-for-your-users-manager-admin.php:31
+msgid "New Message"
+msgstr "Nuovo Messaggio"
+
+#: C:\xampp\htdocs\wp-plugin-dev\wordpress\wp-content\plugins\messages-for-your-users/admin/class-messages-for-your-users-manager-admin.php:32
+msgid "Edit Message"
+msgstr "Modifica Messaggio"
+
+#: C:\xampp\htdocs\wp-plugin-dev\wordpress\wp-content\plugins\messages-for-your-users/admin/class-messages-for-your-users-manager-admin.php:33
+msgid "View Message"
+msgstr "Visualizza Messaggio"
+
+#: C:\xampp\htdocs\wp-plugin-dev\wordpress\wp-content\plugins\messages-for-your-users/admin/class-messages-for-your-users-manager-admin.php:34
+msgid "All Messages"
+msgstr "Tutti i Messaggi"
+
+#: C:\xampp\htdocs\wp-plugin-dev\wordpress\wp-content\plugins\messages-for-your-users/admin/class-messages-for-your-users-manager-admin.php:35
+msgid "Search Messages"
+msgstr "Cerca Messaggi"
+
+#: C:\xampp\htdocs\wp-plugin-dev\wordpress\wp-content\plugins\messages-for-your-users/admin/class-messages-for-your-users-manager-admin.php:36
+msgid "Parent Messages:"
+msgstr "Genitore Messaggio:"
+
+#: C:\xampp\htdocs\wp-plugin-dev\wordpress\wp-content\plugins\messages-for-your-users/admin/class-messages-for-your-users-manager-admin.php:37
+msgid "No Messages found."
+msgstr "Nessun Messaggio trovato"
+
+#: C:\xampp\htdocs\wp-plugin-dev\wordpress\wp-content\plugins\messages-for-your-users/admin/class-messages-for-your-users-manager-admin.php:38
+msgid "No Messages found in Trash."
+msgstr "Nessun Messaggio trovato nel cestino"
+
+#~ msgid "Sliders"
+#~ msgstr "Sliders"
+
+#~ msgid "Slide"
+#~ msgstr "Slide"
+
+#~ msgid "Add New Slide"
+#~ msgstr "Aggiungi nuova Slide"
+
+#~ msgid "New Slide"
+#~ msgstr "Nuova Slide"
+
+#~ msgid "Edit Slide"
+#~ msgstr "Modifica Slide"
+
+#~ msgid "View Slide"
+#~ msgstr "Visualizza Slide"
+
+#~ msgid "All Sliders"
+#~ msgstr "Tutti gli Sliders"
+
+#~ msgid "Category"
+#~ msgstr "Categoria"
+
+#~ msgid "Categoria"
+#~ msgstr "Categoria"
+
+#~ msgid "Search Category"
+#~ msgstr "Cerca Categoria"
+
+#~ msgid "Parent Category"
+#~ msgstr "Genitore Categoria"
+
+#~ msgid "Edit Category"
+#~ msgstr "Modifica Categoria"
+
+#~ msgid "Update Category"
+#~ msgstr "Aggiorna Categoria"
+
+#~ msgid "New Category"
+#~ msgstr "Nuova Categoria"
+
+#~ msgid "Briefinglab Slider CMS Cache"
+#~ msgstr "Briefinglab Slider CMS Cache"
+
+#~ msgid "Delete Cache"
+#~ msgstr "Cancella cache"
+
+#~ msgid "Slider CMS Cache"
+#~ msgstr "Slider CMS Cache"
+
+#~ msgid "Cache have been deleted successfully"
+#~ msgstr "Le cache sono state cancellate correttamente"
+
+#~ msgid ""
+#~ "There was an error trying to delete the cache. Please check write "
+#~ "permission for the cache folder"
+#~ msgstr ""
+#~ "Non è stato possibile cancellare le cache. Controlla i permessi di "
+#~ "scrittura della cartella cache"
