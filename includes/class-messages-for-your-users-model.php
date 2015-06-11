@@ -18,6 +18,10 @@ class Messages_For_Your_Users_Model {
 
     public function checkMessageForUser( $user_id ){
 
+        if( ! current_user_can( 'subscriber' ) ){
+            return false;
+        }
+
         $messages_read = $this->getIdsMessagesReadByUser( $user_id );
 
         $args = array(

@@ -15,6 +15,7 @@ WordPress Plugin to enable administrator menage messages to be showed to the use
 * separate JS from HTML markup
 * show a message only once (creata tabella che traccia le letture dei messagi per semplificare altre operazioni in seguito come le statistiche)
 * make template for message customizable using a template file in the theme root (file nella root si deve chiamare m4yu_message.php)
+* enable messages only for subscriber (maybe then we can foresee nice logic but now ok only for subscriber)
 
 
 
