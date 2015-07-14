@@ -50,15 +50,18 @@ class Messages_For_Your_Users_Manager_Public {
 
             $output = file_get_contents( $this->get_template_message() );
 
+            error_log ($output, 3, "c:/xampp/testluca.txt");
             $output = str_replace( '#m4yu_message_id#', $message_for_user->ID, $output );
 
             $output = str_replace( '#m4yu_user_id#', get_current_user_id(), $output );
 
             $output = str_replace( '#m4yu_title#', $message_for_user->post_title, $output );
 
-            $output = str_replace( '#m4yu_content#', $message_for_user->post_content, $output );
+            $message_content = apply_filters( 'the_content', $message_for_user->post_content );
 
-            $output = apply_filters( 'the_content', $output );
+            $output = str_replace( '#m4yu_content#', $message_content, $output );
+
+            error_log ($output, 3, "c:/xampp/testluca.txt");
 
             echo $output;
 

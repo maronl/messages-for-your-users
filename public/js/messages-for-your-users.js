@@ -1,7 +1,7 @@
 jQuery( document ).ready(function() {
-    if($('#messages-to-your-users')){
+    if(jQuery('#messages-to-your-users')){
 
-        $('#messages-to-your-users').modal('show');
+        jQuery('#messages-to-your-users').modal('show');
 
         ajaxurl = m4yu.url;
 
@@ -9,7 +9,7 @@ jQuery( document ).ready(function() {
 
         jQuery.post(
             ajaxurl,
-            {'action': 'set_message_as_read', 'user_id':  $('#messages-to-your-users').data('user-id'), 'message_id': $('#messages-to-your-users').data('message-id')},
+            {'action': 'set_message_as_read', 'user_id':  jQuery('#messages-to-your-users').data('user-id'), 'message_id': jQuery('#messages-to-your-users').data('message-id')},
             function(response){
                 console.log(response);
             },
