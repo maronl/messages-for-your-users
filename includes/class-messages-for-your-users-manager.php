@@ -69,8 +69,8 @@ class Messages_For_Your_Users_Manager {
     public function __construct() {
 
         $this->plugin_slug = 'messages-for-your-users';
-        $this->version = '1.0.0';
-        $this->options = array(); // now fixed
+        $this->version = '1.0.1';
+        $this->options = array();
 
         $this->load_dependencies();
         $this->define_admin_hooks();
